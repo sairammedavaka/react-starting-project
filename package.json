@@ -1,6 +1,5 @@
 {
   "name": "react-essentials-start",
-  "homepage": "http://s1049166074.onlinehome.us/react-starting-project/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
